@@ -1,0 +1,14 @@
+a149be05cd2ce1b2034ef1894b2406e4 *ChangeLog
+586cc1c0f69b293c1b5d180fdc4739e1 *DESCRIPTION
+e6be2419a123fba852c9651d62ea0c58 *NAMESPACE
+e6b8a1a26aabdb6485075360caf2f526 *NEWS
+e6b8a1a26aabdb6485075360caf2f526 *NEWS.md
+e827ea734fac818bcdf124cb003f9f29 *R/edfun.R
+108b914a9b7197e02d3a78d65031a2f0 *R/zzz.R
+9aab37e39034fe6d7cf056b61dd336a5 *README.md
+09688828436be7e43156484f8760f73c *build/vignette.rds
+a0e17552e8af785489058a8aa3796bf3 *inst/doc/edfun.R
+b1ca9d62e76b92dd52091213d53f7aa9 *inst/doc/edfun.Rmd
+69513e56d6299867f88908a7af775608 *inst/doc/edfun.html
+640d20b2b88ba4ff409250ef13bf58b3 *man/edfun.Rd
+b1ca9d62e76b92dd52091213d53f7aa9 *vignettes/edfun.Rmd
